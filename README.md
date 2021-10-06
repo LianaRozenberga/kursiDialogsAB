@@ -1,0 +1,2 @@
+# kursiDialogsAB
+kursi
