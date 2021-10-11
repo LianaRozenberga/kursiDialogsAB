@@ -1,1 +1,8 @@
-
+console.log(   'Mans dimants')
+console.log('      *')
+console.log('    * * *')
+console.log('  * * * * *')
+console.log('* * * * * * *')
+console.log('  * * * * *')
+console.log('    * * *')
+console.log('      *')
